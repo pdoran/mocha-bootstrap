@@ -10,7 +10,8 @@
 	"dependencies":{
 		"requirejs":"2.0",
 		"mocha":"1.8",
-		"chai":"1.5"
+		"chai":"1.5",
+		"express": "3.x"
 	},
 	"licenses": [{
 		"type": "AFLv2.1",
