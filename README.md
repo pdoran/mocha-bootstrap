@@ -21,7 +21,8 @@ $ npm install
 ```
 
 Run browser version:
-`localhost/mocha-bootstrap/index.html`
+`node web_runner`
+`localhost:3000/mocha-bootstrap/index.html`
 
 Run node version:
 ```
